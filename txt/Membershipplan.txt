@@ -1,0 +1,5 @@
+MP01,Basic Plan,200
+MP02,Standard Plan,500.00
+MP03,Premium Plan,750.00
+MP04,Gold Plan,1000.00
+MP05,Family Plan,1200.00

@@ -1,0 +1,30 @@
+E001,Yoga Mat,Yoga Room,Service
+E002,Yoga Block,Yoga Room,Service
+E003,Yoga Strap,Yoga Room,Repair
+E004,Spin Bike,Spin Room,Service
+E005,Treadmill,Cardio Room,Repair
+E006,Rowing Machine,Cardio Room,Service
+E007,Dumbbell,HIIT Room,Service
+E008,Kettlebell,HIIT Room,Repair
+E009,Resistance Band,HIIT Room,Service
+E010,Battle Rope,HIIT Room,Repair
+E011,Jump Rope,HIIT Room,Service
+E012,Exercise Mat,HIIT Room,Service
+E013,Medicine Ball,HIIT Room,Repair
+E014,Step Platform,HIIT Room,Service
+E015,Exercise Ball,Pilates Room,Service
+E016,Pilates Ring,Pilates Room,Repair
+E017,Foam Roller,Pilates Room,Service
+E018,Pilates Reformer,Pilates Room,Repair
+E019,Balance Board,Pilates Room,Service
+E020,Pull-up Bar,Fitness Room,Service
+E021,Weight Bench,Fitness Room,Repair
+E022,Barbell,Fitness Room,Service
+E023,Weight Plate,Fitness Room,Service
+E024,Cable Machine,Fitness Room,Repair
+E025,Punching Bag,Boxing Room,Service
+E026,Boxing Gloves,Boxing Room,Repair
+E027,Agility Ladder,Training Room,Service
+E028,Plyometric Box,Training Room,Repair
+E029,TRX Suspension Trainer,Training Room,Service
+E030,Portable Speaker,Zumba Room,Repair
